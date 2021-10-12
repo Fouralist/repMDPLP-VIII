@@ -1,2 +1,9 @@
-Pengertian waterfall 
+A. Pengertian waterfall 
   Metode waterfall atau metode air terjun merupakan salah satu siklus hidup klasic (Classic life cycle) dalam pengembangan perangkat lunak. 
+
+B. Tahapan-tahapan 
+    1. Requirements Analysis 
+    2. Design 
+    3. Coding 
+    4. Testing 
+    5. Maintenance
