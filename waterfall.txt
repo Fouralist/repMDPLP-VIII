@@ -3,7 +3,15 @@ A. Pengertian waterfall
 
 B. Tahapan-tahapan 
     1. Requirements Analysis 
+      - Mengetahui seluruh informasi mengenai kebutuhan sofatware seperti kegunaan software yang diinginkan oleh pengguna dan batasan software.
     2. Design 
+      - Memberikan gambaran lengkap tentang apa yang harus dikerjakan dan bagaimana tampilan dari sebuah sistem yang diinginkan
     3. Coding 
+      - Pembuatan software akan dipecah menjadi modul-modul kecil yang nantinya akan digabungkan dalam tahap selanjutnya
     4. Testing 
-    5. Maintenance
+      - Pada tahap ini akan dilakukan penggabungan modul-modul yang sudah dibuat sebelumnya 
+    5. Maintenance 
+       - Di sini software yang sudah jadi akan dijalankan atau dioperasikan oleh penggunanya. Disamping itu dilakukan pula pemeliharaan yang termasuk :
+                a. perbaikan kesalahan
+                b. perbaikan implementasi unit sistem
+                c. peningkatan jasa sistem sesuai kebutuhan baru 
