@@ -14,4 +14,3 @@ B. Tahapan-tahapan
        - Di sini software yang sudah jadi akan dijalankan atau dioperasikan oleh penggunanya. Disamping itu dilakukan pula pemeliharaan yang termasuk :
                 a. perbaikan kesalahan
                 b. perbaikan implementasi unit sistem
-                c. peningkatan jasa sistem sesuai kebutuhan baru 
