@@ -3,6 +3,5 @@ A. Pengertian github
   - website yang digunakan untuk menyimpan dan mengelola kode suatu project.  
   
 B. Fungsi github 
-  - Memudahkan Kolaborasi Pengerjaan Project
-  - Mencegah Perubahan Kode yang Bisa Merusak Kode Asli 
-  - Sebagai Portofolio Bagi Developer
+  - Memudahkan Kolaborasi Pengerjaan Project.
+  - Mencegah Perubahan Kode yang Bisa Merusak Kode Asli.
