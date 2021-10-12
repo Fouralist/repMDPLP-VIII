@@ -1,0 +1,3 @@
+A. Pengertian github 
+  - layanan berbasis web hosting untuk proyek-proyek pengembangan perangkat lunak yang menggunakan sistem kontrol revisi Git.
+  - website yang digunakan untuk menyimpan dan mengelola kode suatu project. 
