@@ -7,3 +7,4 @@ B. Tahapan-tahapan
     3. Coding 
     4. Testing 
     5. Maintenance
+    6. Operasi
